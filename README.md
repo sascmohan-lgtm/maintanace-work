@@ -21,8 +21,8 @@
 # 🚀 About Me
 
 ```yaml
-Name: Mohan
-Role: Software Developer
+Name: Mohan raj
+Role: Software, web application developer
 Country: India 🇮🇳
 
 Skills:
